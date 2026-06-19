@@ -1,0 +1,131 @@
+{
+  "First-Order Axisymmetric Ring (m=0, kc=3.0)": {
+    "critical_wavenumber": 3.0,
+    "angular_harmonic": 0,
+    "patterned_nodes_count": 408,
+    "concentric_structural_efficiency_pct": 33.3,
+    "sampled_chondrocyte_density_matrix": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        404.9,
+        136.3,
+        169.6,
+        363.0
+      ],
+      [
+        0.0,
+        136.3,
+        15.1,
+        15.1,
+        242.4
+      ],
+      [
+        0.0,
+        169.6,
+        15.1,
+        15.4,
+        278.8
+      ],
+      [
+        0.0,
+        363.0,
+        242.4,
+        278.8,
+        306.8
+      ]
+    ]
+  },
+  "Second-Order Concentric Grid (m=0, kc=7.5)": {
+    "critical_wavenumber": 7.5,
+    "angular_harmonic": 0,
+    "patterned_nodes_count": 304,
+    "concentric_structural_efficiency_pct": 24.8,
+    "sampled_chondrocyte_density_matrix": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        249.8,
+        156.2,
+        198.7,
+        183.3
+      ],
+      [
+        0.0,
+        156.2,
+        152.6,
+        363.6,
+        300.5
+      ],
+      [
+        0.0,
+        198.7,
+        363.6,
+        404.9,
+        348.9
+      ],
+      [
+        0.0,
+        183.3,
+        300.5,
+        348.9,
+        154.2
+      ]
+    ]
+  },
+  "Complex Faraday Lattice (m=4, kc=12.0)": {
+    "critical_wavenumber": 12.0,
+    "angular_harmonic": 4,
+    "patterned_nodes_count": 61,
+    "concentric_structural_efficiency_pct": 5.0,
+    "sampled_chondrocyte_density_matrix": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        15.0,
+        15.0,
+        406.9,
+        15.0
+      ],
+      [
+        0.0,
+        15.0,
+        17.1,
+        15.0,
+        15.0
+      ],
+      [
+        0.0,
+        406.9,
+        15.0,
+        15.0,
+        15.0
+      ],
+      [
+        0.0,
+        15.0,
+        15.0,
+        15.0,
+        15.0
+      ]
+    ]
+  }
+}
