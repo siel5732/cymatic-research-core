@@ -1,0 +1,80 @@
+{
+  "Standard Random Cell Co-Culture (No Acoustics)": [
+    {
+      "hour": 0,
+      "vascular_tube_alignment_pct": 0.5,
+      "endothelial_sprout_distance_um": 0.4,
+      "tissue_integration_score": 0.17
+    },
+    {
+      "hour": 12,
+      "vascular_tube_alignment_pct": 11.8,
+      "endothelial_sprout_distance_um": 7.0,
+      "tissue_integration_score": 3.28
+    },
+    {
+      "hour": 24,
+      "vascular_tube_alignment_pct": 21.8,
+      "endothelial_sprout_distance_um": 10.7,
+      "tissue_integration_score": 5.14
+    },
+    {
+      "hour": 36,
+      "vascular_tube_alignment_pct": 30.6,
+      "endothelial_sprout_distance_um": 12.6,
+      "tissue_integration_score": 6.28
+    }
+  ],
+  "Single-Frequency Bessel Vascular Trapping": [
+    {
+      "hour": 0,
+      "vascular_tube_alignment_pct": 22.5,
+      "endothelial_sprout_distance_um": 2.2,
+      "tissue_integration_score": 1.2
+    },
+    {
+      "hour": 12,
+      "vascular_tube_alignment_pct": 99.8,
+      "endothelial_sprout_distance_um": 32.5,
+      "tissue_integration_score": 8.33
+    },
+    {
+      "hour": 24,
+      "vascular_tube_alignment_pct": 100.0,
+      "endothelial_sprout_distance_um": 41.4,
+      "tissue_integration_score": 9.51
+    },
+    {
+      "hour": 36,
+      "vascular_tube_alignment_pct": 100.0,
+      "endothelial_sprout_distance_um": 43.9,
+      "tissue_integration_score": 9.86
+    }
+  ],
+  "Multi-Frequency (Bessel + Faraday) + VEGF Sprout Synergy": [
+    {
+      "hour": 0,
+      "vascular_tube_alignment_pct": 42.5,
+      "endothelial_sprout_distance_um": 31.5,
+      "tissue_integration_score": 2.75
+    },
+    {
+      "hour": 12,
+      "vascular_tube_alignment_pct": 100.0,
+      "endothelial_sprout_distance_um": 178.5,
+      "tissue_integration_score": 9.95
+    },
+    {
+      "hour": 24,
+      "vascular_tube_alignment_pct": 100.0,
+      "endothelial_sprout_distance_um": 180.0,
+      "tissue_integration_score": 10.0
+    },
+    {
+      "hour": 36,
+      "vascular_tube_alignment_pct": 100.0,
+      "endothelial_sprout_distance_um": 180.0,
+      "tissue_integration_score": 10.0
+    }
+  ]
+}
