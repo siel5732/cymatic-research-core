@@ -1,0 +1,120 @@
+{
+  "Standard Planar G-Code (No security)": {
+    "num_coordinates": 100,
+    "non_planar_z_variance": 0.0,
+    "is_cryptographically_signed": false,
+    "physical_tampering_detected": false,
+    "structural_strength_score_pct": 65.0,
+    "gcode_sample": [
+      {
+        "step": 42,
+        "X": -3.5052,
+        "Y": 1.927,
+        "Z": 0.2
+      },
+      {
+        "step": 43,
+        "X": -3.6193,
+        "Y": 1.7031,
+        "Z": 0.2
+      },
+      {
+        "step": 44,
+        "X": -3.7191,
+        "Y": 1.4725,
+        "Z": 0.2
+      },
+      {
+        "step": 45,
+        "X": -3.8042,
+        "Y": 1.2361,
+        "Z": 0.2
+      },
+      {
+        "step": 46,
+        "X": -3.8743,
+        "Y": 0.9948,
+        "Z": 0.2
+      }
+    ]
+  },
+  "Tampered G-Code (Micro-crack injection)": {
+    "num_coordinates": 100,
+    "non_planar_z_variance": 0.45,
+    "is_cryptographically_signed": false,
+    "physical_tampering_detected": true,
+    "structural_strength_score_pct": 15.0,
+    "gcode_sample": [
+      {
+        "step": 42,
+        "X": -3.5052,
+        "Y": 1.927,
+        "Z": 0.2
+      },
+      {
+        "step": 43,
+        "X": -3.6193,
+        "Y": 1.7031,
+        "Z": 0.2
+      },
+      {
+        "step": 44,
+        "X": -3.7191,
+        "Y": 1.4725,
+        "Z": 0.2
+      },
+      {
+        "step": 45,
+        "X": -3.8042,
+        "Y": 1.2361,
+        "Z": 1.8
+      },
+      {
+        "step": 46,
+        "X": -3.8743,
+        "Y": 0.9948,
+        "Z": 1.8
+      }
+    ]
+  },
+  "Quantum-Walk Non-Planar + Cryptographic Signature": {
+    "num_coordinates": 100,
+    "non_planar_z_variance": 1.2657,
+    "is_cryptographically_signed": true,
+    "physical_tampering_detected": false,
+    "structural_strength_score_pct": 98.5,
+    "gcode_signature": "7993b54c4bf5db37e30767995dd249d0ba01ab7b5e77e9879a3ff901a097ce25",
+    "gcode_sample": [
+      {
+        "step": 42,
+        "X": -3.5052,
+        "Y": 1.927,
+        "Z": 0.2117
+      },
+      {
+        "step": 43,
+        "X": -3.6193,
+        "Y": 1.7031,
+        "Z": 0.2
+      },
+      {
+        "step": 44,
+        "X": -3.7191,
+        "Y": 1.4725,
+        "Z": 0.3172
+      },
+      {
+        "step": 45,
+        "X": -3.8042,
+        "Y": 1.2361,
+        "Z": 0.2
+      },
+      {
+        "step": 46,
+        "X": -3.8743,
+        "Y": 0.9948,
+        "Z": 0.7273
+      }
+    ]
+  }
+}

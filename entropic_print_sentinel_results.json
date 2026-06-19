@@ -1,0 +1,197 @@
+{
+  "Optimal Layer-Adhesion (Stable Entropy)": [
+    {
+      "layer": 1,
+      "layer_entropy_nats": 0.12,
+      "camera_feature_drift_px": 0.002,
+      "accelerometer_anomaly_g": 0.03,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.2408,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 26,
+      "layer_entropy_nats": 0.2115,
+      "camera_feature_drift_px": 0.052,
+      "accelerometer_anomaly_g": 0.0232,
+      "gcode_fidelity_index_pct": 99.5,
+      "combined_anomaly_metric": 0.4438,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 51,
+      "layer_entropy_nats": 0.1534,
+      "camera_feature_drift_px": 0.102,
+      "accelerometer_anomaly_g": 0.028,
+      "gcode_fidelity_index_pct": 99.0,
+      "combined_anomaly_metric": 0.3476,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 76,
+      "layer_entropy_nats": 0.155,
+      "camera_feature_drift_px": 0.152,
+      "accelerometer_anomaly_g": 0.0282,
+      "gcode_fidelity_index_pct": 98.5,
+      "combined_anomaly_metric": 0.3708,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 101,
+      "layer_entropy_nats": 0.2105,
+      "camera_feature_drift_px": 0.202,
+      "accelerometer_anomaly_g": 0.0228,
+      "gcode_fidelity_index_pct": 98.0,
+      "combined_anomaly_metric": 0.5018,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 126,
+      "layer_entropy_nats": 0.1199,
+      "camera_feature_drift_px": 0.252,
+      "accelerometer_anomaly_g": 0.03,
+      "gcode_fidelity_index_pct": 97.5,
+      "combined_anomaly_metric": 0.3407,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 150,
+      "layer_entropy_nats": 0.2063,
+      "camera_feature_drift_px": 0.3,
+      "accelerometer_anomaly_g": 0.0239,
+      "gcode_fidelity_index_pct": 97.0,
+      "combined_anomaly_metric": 0.5326,
+      "sentinel_abort_signal": false
+    }
+  ],
+  "Early Corner Warping Detected": [
+    {
+      "layer": 1,
+      "layer_entropy_nats": 0.12,
+      "camera_feature_drift_px": 0.002,
+      "accelerometer_anomaly_g": 0.03,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.2408,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 26,
+      "layer_entropy_nats": 0.2115,
+      "camera_feature_drift_px": 0.052,
+      "accelerometer_anomaly_g": 0.0232,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.4438,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 51,
+      "layer_entropy_nats": 0.1702,
+      "camera_feature_drift_px": 0.25,
+      "accelerometer_anomaly_g": 0.02,
+      "gcode_fidelity_index_pct": 99.5,
+      "combined_anomaly_metric": 0.4404,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 76,
+      "layer_entropy_nats": 0.4702,
+      "camera_feature_drift_px": 4.0,
+      "accelerometer_anomaly_g": 0.12,
+      "gcode_fidelity_index_pct": 88.3,
+      "combined_anomaly_metric": 2.5404,
+      "sentinel_abort_signal": true
+    },
+    {
+      "layer": 101,
+      "layer_entropy_nats": 0.7702,
+      "camera_feature_drift_px": 7.75,
+      "accelerometer_anomaly_g": 0.22,
+      "gcode_fidelity_index_pct": 77.0,
+      "combined_anomaly_metric": 4.6404,
+      "sentinel_abort_signal": true
+    },
+    {
+      "layer": 126,
+      "layer_entropy_nats": 1.0702,
+      "camera_feature_drift_px": 11.5,
+      "accelerometer_anomaly_g": 0.32,
+      "gcode_fidelity_index_pct": 65.8,
+      "combined_anomaly_metric": 6.7404,
+      "sentinel_abort_signal": true
+    },
+    {
+      "layer": 150,
+      "layer_entropy_nats": 1.3582,
+      "camera_feature_drift_px": 15.1,
+      "accelerometer_anomaly_g": 0.416,
+      "gcode_fidelity_index_pct": 55.0,
+      "combined_anomaly_metric": 8.7564,
+      "sentinel_abort_signal": true
+    }
+  ],
+  "Complete Print Detachment (Spaghetti Failure)": [
+    {
+      "layer": 1,
+      "layer_entropy_nats": 0.12,
+      "camera_feature_drift_px": 0.002,
+      "accelerometer_anomaly_g": 0.03,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.2408,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 26,
+      "layer_entropy_nats": 0.2115,
+      "camera_feature_drift_px": 0.052,
+      "accelerometer_anomaly_g": 0.0232,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.4438,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 51,
+      "layer_entropy_nats": 0.1534,
+      "camera_feature_drift_px": 0.102,
+      "accelerometer_anomaly_g": 0.028,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.3476,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 76,
+      "layer_entropy_nats": 0.155,
+      "camera_feature_drift_px": 0.152,
+      "accelerometer_anomaly_g": 0.0282,
+      "gcode_fidelity_index_pct": 100.0,
+      "combined_anomaly_metric": 0.3708,
+      "sentinel_abort_signal": false
+    },
+    {
+      "layer": 101,
+      "layer_entropy_nats": 3.5,
+      "camera_feature_drift_px": 18.01,
+      "accelerometer_anomaly_g": 1.2,
+      "gcode_fidelity_index_pct": 47.5,
+      "combined_anomaly_metric": 14.204,
+      "sentinel_abort_signal": true
+    },
+    {
+      "layer": 126,
+      "layer_entropy_nats": 3.5,
+      "camera_feature_drift_px": 25.0,
+      "accelerometer_anomaly_g": 1.2,
+      "gcode_fidelity_index_pct": 0.0,
+      "combined_anomaly_metric": 17.0,
+      "sentinel_abort_signal": true
+    },
+    {
+      "layer": 150,
+      "layer_entropy_nats": 3.5,
+      "camera_feature_drift_px": 25.0,
+      "accelerometer_anomaly_g": 1.2,
+      "gcode_fidelity_index_pct": 0.0,
+      "combined_anomaly_metric": 17.0,
+      "sentinel_abort_signal": true
+    }
+  ]
+}
