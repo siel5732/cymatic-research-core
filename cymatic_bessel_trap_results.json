@@ -1,0 +1,86 @@
+{
+  "Single-Frequency Zeroth-Order Bessel Beam": {
+    "frequency_mhz": 1.0,
+    "total_spherical_traps": 412,
+    "trap_spatial_density_pct": 45.8,
+    "sampled_trapping_field_map": [
+      [
+        80.7,
+        89.8,
+        99.8,
+        97.3,
+        97.8
+      ],
+      [
+        3.1,
+        17.5,
+        97.4,
+        64.2,
+        69.5
+      ],
+      [
+        0.5,
+        6.9,
+        96.1,
+        50.7,
+        57.3
+      ],
+      [
+        84.1,
+        91.6,
+        99.9,
+        97.8,
+        98.2
+      ],
+      [
+        2.8,
+        16.5,
+        97.4,
+        63.2,
+        68.7
+      ]
+    ]
+  },
+  "Dual-Frequency Interferometric Bessel Trap": {
+    "frequency_mhz": 1.0,
+    "total_spherical_traps": 475,
+    "trap_spatial_density_pct": 52.8,
+    "sampled_trapping_field_map": [
+      [
+        99.3,
+        99.7,
+        100.0,
+        99.9,
+        99.9
+      ],
+      [
+        0.0,
+        0.4,
+        92.1,
+        24.5,
+        31.6
+      ],
+      [
+        0.0,
+        0.5,
+        92.4,
+        26.0,
+        33.2
+      ],
+      [
+        99.4,
+        99.7,
+        100.0,
+        99.9,
+        99.9
+      ],
+      [
+        0.0,
+        0.4,
+        92.0,
+        24.1,
+        31.2
+      ]
+    ]
+  }
+}
